@@ -4,3 +4,5 @@
 3. Python
 4. Introduction to Django, how templating, urls and views works
 5. Figure out how the website will look and work
+6. Create models and SQL
+7. Configure admin page

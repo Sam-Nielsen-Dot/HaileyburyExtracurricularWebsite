@@ -1,0 +1,6 @@
+0. Python, PIP, Django, Git and VSCode installed
+1. HTML
+2. HTML forms and requests and how the internet works
+3. Python
+4. Introduction to Django, how templating, urls and views works
+5. Figure out how the website will look and work

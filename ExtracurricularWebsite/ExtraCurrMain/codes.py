@@ -1,4 +1,4 @@
-{
+codes = {
     'superuser': {
         'username': 'Superuser',
         'email':'superuser@gmail.com',
@@ -6,3 +6,6 @@
 
     }
 }
+
+def get_codes():
+    return codes

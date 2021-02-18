@@ -1,2 +1,14 @@
 Write all the commands and things you need to remember here:
 
+
+
+Using git:
+
+1. Don't push to master
+2. Stay on a branch
+
+create branches with git checkout -b branch_name
+move to branch with git checkout branch_name
+
+git add 
+git commit

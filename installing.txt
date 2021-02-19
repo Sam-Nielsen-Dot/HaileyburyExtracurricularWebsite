@@ -4,6 +4,7 @@
 3. Download git - https://gitforwindows.org/
 4. Open Git CMD and run C:\Users\[username] git clone https://github.com/Sam-Nielsen-Dot/HaileyburyExtracurricularWebsite
 5. Open C:\Users\[username]\HaileyburyExtracurricularWebsite in VSCode
+6. Run pip install requirements.txt
 6. Select git bash as default terminal
 7. Run git checkout -b "[name]sBranch"
 8. Return to CMD and run cd ExtracurricularWebsite

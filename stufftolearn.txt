@@ -1,4 +1,4 @@
-0. Python, PIP, Django, Git and VSCode installed
+0. Python, PIP, Django, Git,  and VSCode installed - open git cmd
 1. HTML
 2. HTML forms and requests and how the internet works
 3. Python

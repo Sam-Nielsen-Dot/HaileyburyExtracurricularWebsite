@@ -4,4 +4,10 @@
 
 <p1>TODO</p1>
 
+<div>
+    {%for post in posts%}
+        <p>{{post.content}}</p>
+    {%endfor%}
+</div>
+
 {% endblock %}

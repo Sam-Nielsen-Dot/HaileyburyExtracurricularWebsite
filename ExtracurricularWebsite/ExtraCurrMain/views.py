@@ -7,11 +7,13 @@ from django.http import HttpResponse, HttpResponseRedirect
 from django.shortcuts import render
 from django.urls import reverse
 
-from .models import User
+from .models import User, Post
 
 
 def index(request):
-    return render(request, "ExtraCurrMain/index.html")
+    return render(request, "ExtraCurrMain/index.html", {
+        'posts':Post.objects.all()
+    })
 
 
 def login_view(request):
